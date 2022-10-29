@@ -6,3 +6,4 @@
 
 ## Features
    - 64 bit [Zobrist hash key generation](https://www.chessprogramming.org/Zobrist_Hashing) for use in a Chess engine
+   - outputs content that can be used directly as a header file in a Chess engine
